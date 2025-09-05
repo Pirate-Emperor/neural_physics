@@ -1,0 +1,2 @@
+from .freq inpImport InpFreqEncoder
+
